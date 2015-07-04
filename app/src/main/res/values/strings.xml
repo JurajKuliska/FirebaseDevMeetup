@@ -1,0 +1,8 @@
+<resources>
+	<string name="app_name">FirebaseTestApp</string>
+
+	<string name="hello_world">Hello world!</string>
+	<string name="action_settings">Settings</string>
+	<string name="editText_hint">Enter message</string>
+	<string name="button_send">Send</string>
+</resources>
